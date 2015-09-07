@@ -1,0 +1,31 @@
+body {
+    padding-top: 50px;
+}
+
+.starter-template {
+    padding: 40px 15px;
+    text-align: center;
+}
+.red{
+    color: red;
+    padding: 5px 10px;
+    font-weight: bold;
+    font-family: cursive;
+    font-size: small;
+}
+.yellow{
+
+    padding: 5px 10px;
+    color: yellow;
+    font-weight: bold;
+    font-family: cursive;
+    font-size: small;
+
+}
+.green{
+    color: green;
+    padding: 5px 10px;
+    font-weight: bold;
+    font-family: cursive;
+    font-size: small;
+}
